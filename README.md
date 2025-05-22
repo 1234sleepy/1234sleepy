@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1234sleepy
+- 👋 Hi, I’m Artur Yoltukhivskyi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning English, c#, Angular
 - 📫 How to reach me discord("nnSleepy")
