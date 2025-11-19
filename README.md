@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1234sleepy&label=Profile%20views&color=0e75b6&style=flat" alt="1234sleepy" /> </p>
 
-- 🌱 I’m currently learning **C++, C#, Docker, Angular 5**
+- 🌱 I’m currently learning **C++, C#, TypeScript Docker, Angular 5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1234sleepy](https://github.com/1234sleepy)
 
