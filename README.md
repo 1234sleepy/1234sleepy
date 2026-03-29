@@ -10,5 +10,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nodejs,express,bootstrap,net,cs,cpp,css,ts,python,html,js,mysql,postgres,docker,figma)
+![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nodejs,express,bootstrap,net,cs,cpp,css,ts,python,html,js,postgres,docker,figma)
 
